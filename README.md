@@ -1,0 +1,2 @@
+# Breast-Cancer-Classification-SVM
+Breast Cancer Classification using Support Vector Machine (SVM) with data preprocessing, feature scaling, hyperparameter tuning using GridSearchCV, cross-validation, ROC-AUC evaluation, and model persistence.
